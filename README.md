@@ -14,13 +14,13 @@ The model is built using Python and trained on housing datasets to provide accur
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 Estimating housing prices manually is difficult due to multiple influencing factors.  
 This project solves that problem using machine learning to provide reliable predictions.
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - **Language:** Python  
 - **Platform:** Google Colab  
 - **Libraries:**
@@ -56,7 +56,7 @@ Housing-Price-Prediction-System/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Open Google Colab
 2. Mount Google Drive
 3. Upload dataset (CSV file)
@@ -65,7 +65,7 @@ Housing-Price-Prediction-System/
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 - Target R² Score: ≥ 0.85  
 - Evaluation Metrics:
   - MAE
@@ -74,7 +74,7 @@ Housing-Price-Prediction-System/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Mounika Kallako**  
 AI/ML Trainee  
 
@@ -82,16 +82,16 @@ AI/ML Trainee
 
 ## 📎 Project Report
 You can find the detailed project report here:  
-👉 *(Add your PDF link after uploading to GitHub)*
+ 
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Deploy as a web application
 - Add real-time prediction API
 - Improve accuracy using advanced models (XGBoost)
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates a complete machine learning workflow for solving a real-world regression problem and helps users make informed decisions in the real estate domain.
